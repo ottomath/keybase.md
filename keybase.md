@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am freddocg on github.
-  * I am fred1 (https://keybase.io/fred1) on keybase.
-  * I have a public key ASDEMi3iznU5jQBtvAfNJ1MGDg25ttiUFqX3U0nnIiKzuwo
+  * I am ottomath on github.
+  * I am hartmutm (https://keybase.io/hartmutm) on keybase.
+  * I have a public key ASBDpm7yG_ZfxalUydNbcPh1tQfDFboPyBW6VVCCNISboQo
 
 To claim this, I am signing this object:
 
@@ -12,42 +12,42 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120c4322de2ce75398d006dbc07cd2753060e0db9b6d89416a5f75349e72222b3bb0a",
+      "eldest_kid": "012043a66ef21bf65fc5a954c9d35b70f875b507c315ba0fc815ba55508234849ba10a",
       "host": "keybase.io",
-      "kid": "0120c4322de2ce75398d006dbc07cd2753060e0db9b6d89416a5f75349e72222b3bb0a",
-      "uid": "50e7c350587a8fad15e082db47a8f619",
-      "username": "fred1"
+      "kid": "012043a66ef21bf65fc5a954c9d35b70f875b507c315ba0fc815ba55508234849ba10a",
+      "uid": "ae931e60f85b851738cd6629d5603d19",
+      "username": "hartmutm"
     },
     "merkle_root": {
-      "ctime": 1568136432,
-      "hash": "6d233c3da556be693c6a0f92dc2674deedfb2049664d15c9f9f8b7e18fc5347cb00dd0b93b80d145101e51bc3a6b6563fdd32f1054da923c01f953243b4f468c",
-      "hash_meta": "662a7841b451ddb01155f2f9472a65b28b9e621cddbafc43aa4450768e211c40",
-      "seqno": 6475414
+      "ctime": 1624343545,
+      "hash": "d627235369589f8e5f086cd4e7e90152a66292e091cb970a28a7c964a632113b448c908a1c42127bfe7590afd6eb41e57c909e274733574a567b8faae2b904ba",
+      "hash_meta": "bea6fdfa0d90b6b6a977ab601f74fda4a6acd0af82ffcbf1b504b32e7e490682",
+      "seqno": 20232099
     },
     "service": {
-      "entropy": "k8yvSg+YSgpAQgTQ1nGKsVkv",
+      "entropy": "glFE9Deic7uh+zO3tlYZXQNP",
       "name": "github",
-      "username": "freddocg"
+      "username": "ottomath"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.0"
+    "version": "5.6.0"
   },
-  "ctime": 1568136458,
+  "ctime": 1624343565,
   "expire_in": 504576000,
-  "prev": "28c65fe18b397fb79ee20064e511be88531e4ab80abf22c7b375e606095150b4",
-  "seqno": 5,
+  "prev": "083df083c373cc14f1a626aca8929d7a0a1b2478b3e50ba25b61b4640d88e964",
+  "seqno": 6,
   "tag": "signature"
 }
 ```
 
-with the key [ASDEMi3iznU5jQBtvAfNJ1MGDg25ttiUFqX3U0nnIiKzuwo](https://keybase.io/fred1), yielding the signature:
+with the key [ASBDpm7yG_ZfxalUydNbcPh1tQfDFboPyBW6VVCCNISboQo](https://keybase.io/hartmutm), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxDIt4s51OY0AbbwHzSdTBg4NubbYlBal91NJ5yIis7sKp3BheWxvYWTESpcCBcQgKMZf4Ys5f7ee4gBk5RG+iFMeSrgKvyLHs3XmBglRULTEIOg6HlhW9YApygB2twfeRVcn9jqNGDsZPJ4lVcH9qL1UAgHCo3NpZ8RA7t6kCds9whst26skERH6VJJhKu59FoD3PtyQNUpKOzyMjSetFQuyBfrKMjwhrt3saVndWzFP6+5tpmuEUR2zDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJRvOwKB8kk18Y7ie1JpEqdZQPdrhO5O/qqpjos58fBfo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQ6Zu8hv2X8WpVMnTW3D4dbUHwxW6D8gVulVQgjSEm6EKp3BheWxvYWTESpcCBsQgCD3wg8NzzBTxpiasqJKdegobJHiz5QuiW2G0ZA2I6WTEIKD0safmtNJ4qTZNhbbOPW1sl8JJE1xmQFwf1xYWKjo/AgHCo3NpZ8RAIhcBYatP08mdBaMF0Maa3DTtBCTEv+QvHRVmJBLitViuvpTzduSTDB2gkeo9flg/rMqjUSOZnOp9o8yz2iTmDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM42Ey04dtIJ6mlGy9DLPUZfBWOZLfkPa4lcG+5wRkqOo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/fred1
+https://keybase.io/hartmutm
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id fred1
+keybase id hartmutm
 ```
